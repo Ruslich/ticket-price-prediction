@@ -72,6 +72,6 @@ Performance metrics used:
 
 ## Contributors
 
-- Veronika Rybak
-- Ruslan Tsibirov
+- [Veronika Rybak](https://www.linkedin.com/in/veronika-rybak-55379a337/)
+- [Ruslan Tsibirov](https://www.linkedin.com/in/ruslan-tsibirov-6bb6a2262/)
 - Olga Ivanova
